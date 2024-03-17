@@ -21,13 +21,17 @@ Los códigos y tutoriales están como código abierto en GitHub: [github.com/Ama
 
 **Capítulo 1: HolaWeb3 (Solidity en 3 lineas)**：[Code](./01_HolaWeb3_es/HolaWeb3.sol) | [Tutorial](./01_HolaWeb3_es/readme.md)
 
-**Capítulo 2: Tipos de valor (Value Types)**：[Code](./02_TiposDeValor_es/ValueTypes.sol) | [Tutorial](./02_ValueTypes_es/readme.md)
+**Capítulo 2: Tipos de valor (Value Types)**：[Code](./02_TiposDeValor_es/ValueTypes.sol) | [Tutorial](./02_TiposDeValor_es/readme.md)
 
 **Capítulo 3. Función**：[Code](./03_Funcion_es/Function.sol) | [Tutorial](./03_Funcion_es/readme.md)
 
 **Capítulo 4. Retorno**：[Code](./04_Retorno_es/Return.sol) | [Tutorial](./04_Retorno_es/readme.md)
 
-**Capítulo 5. Almacenamiento**：[Code](./04_AlmacenamientoInformacion_es/DataStorage.sol) | [Tutorial](./04_AlmacenamientoInformacion_es/readme.md)
+**Capítulo 5. Almacenamiento**：[Code](./05_AlmacenamientoInformacion_es/DataStorage.sol) | [Tutorial](./05_AlmacenamientoInformacion_es/readme.md)
+
+**Capítulo 6. Arreglos y Estructuras**：[Code](./06_ArreglosyEstructuras_es/ArrayAndStruct.sol) | [Tutorial](./06_ArreglosyEstructuras_es/readme.md)
+
+**Capítulo 7. Mapeo**：[Code](./07_Mapeo_es/Mapping.sol) | [Tutorial](./07_Mapeo_es/readme.md)
 
 **Capítulo 8. Valor Inicial**：[Code](./08_ValorInicial_es/InitialValue.sol) | [Tutorial](./08_ValorInicial_es/readme.md)
 
@@ -37,13 +41,13 @@ Los códigos y tutoriales están como código abierto en GitHub: [github.com/Ama
 
 **Capítulo 11. Modificador**：[Code](./11_Modificador_es/Owner.sol) | [Tutorial](./11_Modificador_es/readme.md)
 
-**Capítulo 12. Eventos**：[Code](./12_Eventos_es/Event.sol) | [Tutorial](./12_Event_es/readme.md)
+**Capítulo 12. Eventos**：[Code](./12_Eventos_es/Event.sol) | [Tutorial](./12_Eventos_es/readme.md)
 
-**Capítulo 13. Herencia**：[Code](./13_Herencia_es/Inheritance.sol) | [Tutorial](./13_Inheritance_es/readme.md)
+**Capítulo 13. Herencia**：[Code](./13_Herencia_es/Inheritance.sol) | [Tutorial](./13_Herencia_es/readme.md)
 
-**Capítulo 14. Interfaz**：[Code](./14_Interfaces_es/Interface.sol) | [Tutorial](./14_Interface_es/readme.md)
+**Capítulo 14. Interfaz**：[Code](./14_Interfaces_es/Interface.sol) | [Tutorial](./14_Interfaces_es/readme.md)
 
-**Capítulo 15. Errores**：[Code](./15_Errores_es/Error.sol) | [Tutorial](./15_Errors_es/readme.md)
+**Capítulo 15. Errores**：[Code](./15_Errores_es/Error.sol) | [Tutorial](./15_Errores_es/readme.md)
 
 ## WTF Contributors
 
